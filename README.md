@@ -1,0 +1,1 @@
+an example of using function template and a specialization function template for *char type
